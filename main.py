@@ -9,8 +9,8 @@ from telethon.tl.functions.users import GetFullUserRequest
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
 
-api_hash = "902b15976dc1223d3cd4f33545199073"
-api_id = 27992281
+api_hash = "set yours"
+api_id = "int code  - set yours"
 
 client = TelegramClient("sessione_in_corso", api_id, api_hash)
 
